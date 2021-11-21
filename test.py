@@ -1,1 +1,2 @@
-print("dupa")
+print("dupllaaaa")
+print("kkkk")
